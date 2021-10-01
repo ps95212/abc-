@@ -1,0 +1,2 @@
+print("ATTTTGGGC")
+PRINT("HELLO")
